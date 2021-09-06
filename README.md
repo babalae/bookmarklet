@@ -10,3 +10,6 @@
 * 米游社限制一个用户一天最多只能查询30个UID
 
 查询后的结果展示的相关代码：[genshin-info](https://github.com/babalae/genshin-info)
+
+
+镜像站点：[https://babalae.netlify.app/](https://babalae.netlify.app/)
