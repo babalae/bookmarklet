@@ -1,4 +1,4 @@
-if (window.location.href.indexOf("bbs.mihoyo.com/ys") > 0) {
+if (window.location.href.indexOf("www.miyoushe.com/ys") > 0) {
     if (!window._ysq) {
         var GenshinInfoFetcher = function () {
             const ths = this;
